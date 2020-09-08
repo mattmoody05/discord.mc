@@ -4,7 +4,7 @@
 <p>
     <ol>
         <li>
-            Download & extract files <a href="https://github.com/mattmoody05/discord.mc/archive/master.zip">(Download here)<a>
+            Download & extract files <a href="https://github.com/mattmoody05/discord.mc/archive/master.zip">here <a> or using the <img href="./instructions/images/download.png"/> button
         </li>
         <li>
             Install dependencies using the commands below
