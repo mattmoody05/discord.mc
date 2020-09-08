@@ -1,0 +1,11 @@
+ServerIP=
+ServerPort=
+QueryPort=
+BotPrefix=
+BotToken=
+OnlineChannelID=
+
+Please place the response directly after the "=" e.g
+ServerIP=play.hypixel.net
+
+OnlineChannelID is currently not used - will be used after next release
