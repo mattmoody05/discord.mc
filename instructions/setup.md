@@ -4,8 +4,9 @@
 <p>
     <ol>
         <li>
-            Download & extract files <a href="https://github.com/mattmoody05/discord.mc/archive/master.zip">here</a>
+            Download & extract files <a href="https://github.com/mattmoody05/discord.mc/archive/master.zip">from here</a>
         </li>
+        <br>
         <li>
             Install dependencies using the commands below
             <br>
@@ -13,19 +14,23 @@
             <br>
             <code>pip3 install mcstatus</code>
         </li>
+        <br>
         <li>
             Create your discord bot in discord dev portal - a tutorial is linked <a href="https://discordpy.readthedocs.io/en/latest/discord.html">here</a> if you do not know how to do this
             <br>
             Make sure to write down your bot token - you will need this soon
         </li>
+        <br>
         <li>
             Fill in all the required fields in <code>config.txt</code>
         </li>
+        <br>
         <li>
             Navigate to the discord.mc directory using
             <br>
             <code>cd PathToFolder</code>
         </li>
+        <br>
         <li>
             Run the bot!
             <br>
