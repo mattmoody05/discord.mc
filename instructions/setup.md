@@ -19,6 +19,8 @@
             Create your discord bot in discord dev portal - a tutorial is linked <a href="https://discordpy.readthedocs.io/en/latest/discord.html">here</a> if you do not know how to do this
             <br>
             Make sure to write down your bot token - you will need this soon
+            <br>
+            You may also want to invite the bot to the server at this step, it will save you time later
         </li>
         <br>
         <li>
