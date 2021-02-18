@@ -34,6 +34,18 @@ async def on_ready():
     print('We have logged in as {0.user}'.format(client))
 
 
+# ip command
+@client.command(name = "ip")
+async def ip(ctx):
+    # creating embed
+    IPEmbed = discord.Embed(
+        colour = discord.Color.light_gray()
+    )
+    IPEmbed.set_author(name = f"Server IP: {IP}")
+
+    # sending embed to current channel
+    await ctx.send(embed = IPEmbed)
+
 # playercount command
 @client.command(name = "playercount")
 async def playercount(ctx):
